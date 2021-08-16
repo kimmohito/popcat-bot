@@ -1,5 +1,3 @@
-## Popcat Bot
-
 ### Instruction :
 1) Open https://popcat.click
 2) Open console (F12)
