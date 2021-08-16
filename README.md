@@ -1,7 +1,7 @@
 ### Instruction :
-1) Open https://popcat.click
-2) Open console (F12)
-3) Copy code below & run
+1. Open https://popcat.click <br>
+2. Open console (F12) <br>
+3. Copy code below & run <br>
 
 ### Code :
 ```
